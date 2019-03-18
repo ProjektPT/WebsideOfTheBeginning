@@ -1,0 +1,33 @@
+<html>
+
+
+<head>
+<link rel="shortcut icon" href="bronze-5-png-6-164x128.png" type="image/x-icon">
+
+<title>Downloads</title>
+
+</head>
+
+
+<body>
+
+<br>
+
+<ul><ul><h1 class="Over">Downloads</h1>
+
+<link rel="stylesheet" type="text/css" href="styledown.css">
+
+<p class="githubtext">Hier k&ouml;nnen sie den Source Code der Webseite Downloaden!</p>
+
+<a href="downloadsrc.txt "download="Source.txt">
+
+<button class="github" id="github1" name="githubdownload"><img src="githublogo.png"></button>
+
+</a>
+
+<p>
+
+</body>
+
+
+</html>
